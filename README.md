@@ -1,5 +1,6 @@
 ### Heyy! Eu sou a Natali Lima✌️
 ##
+ <div style={{display: "flex"}}>
  <div>
   <a href="https://github.com/heyynat">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heyynat&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -11,6 +12,7 @@
   <img align="center" alt="Nat-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Nat-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nat-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 </div>
 
 ##
