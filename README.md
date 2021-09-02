@@ -1,5 +1,13 @@
 ### Heyy! Eu sou a Natali Lima✌️
 ##
+
+<p align="center"> Sou apaixonada por programação e sobre como a tecnologia, pode impactar positivamente na vida das pessoas. </p>
+
+<li>Hobbies: Séries, Futsal e Música</li>
+<li>Cuiabá/MT</li>
+
+- [Visite meu portifólio](https://heyynat.github.io/) 💻
+
  <div style={{display: "flex"}}>
  <div>
   <a href="https://github.com/heyynat">
