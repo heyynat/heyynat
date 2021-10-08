@@ -3,10 +3,11 @@
 
 <p align="center">Sou apaixonada por programação e por marcas que entregam soluções inovadoras e ágeis gerando valor para negócios e transformações no mundo digital. Trabalho e acredito em projetos que possam gerar um impacto e simplificar a vida das pessoas.</p>
 
-<li>Hobbies: Filmes de suspenses, Séries,Futsal e Música</li>
+<li>Hobbies: Filmes de suspenses, Séries, Futsal e Música</li>
 <li>Cuiabá/MT</li>
 
 - [Visite meu portifólio](https://heyynat.github.io/) 💻
+- Atualmente estudando <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 
  <div style={{display: "flex"}}>
  <div>
@@ -20,6 +21,10 @@
   <img align="center" alt="Nat-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Nat-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nat-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+
 </div>
 </div>
 
