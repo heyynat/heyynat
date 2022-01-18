@@ -7,7 +7,7 @@
 <li>Cuiabá/MT</li>
 
 - [Visite meu portifólio](https://heyynat.github.io/) 💻
-- Atualmente estudando <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+<!-- - Atualmente estudando <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> -->
 
  <div style={{display: "flex"}}>
  <div>
