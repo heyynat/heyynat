@@ -3,7 +3,7 @@
 
 <p align="center">Sou apaixonada por programação e por marcas que entregam soluções inovadoras e ágeis gerando valor para negócios e transformações no mundo digital. Trabalho e acredito em projetos que possam gerar um impacto e simplificar a vida das pessoas.</p>
 
-<li>Hobbies: Filmes de suspenses, Séries, Futsal e Música</li>
+<li>Hobbies: Filmes de suspenses, Séries, Vinho e Música</li>
 <li>Cuiabá/MT</li>
 
 - [Visite meu portifólio](https://heyynat.github.io/) 💻
