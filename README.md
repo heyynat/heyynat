@@ -9,6 +9,8 @@
 - [Visite meu portifólio](https://heyynat.github.io/) 💻
 <!-- - Atualmente estudando <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> -->
 
+- Atualmente aprendendo Ruby<img align="center" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+
  <div style={{display: "flex"}}>
  <div>
   <a href="https://github.com/heyynat">
