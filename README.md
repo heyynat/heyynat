@@ -5,11 +5,8 @@
 
 <li>Hobbies: Filmes de suspenses, Séries, Vinho e Música</li>
 <li>Cuiabá/MT</li>
-
-- [Visite meu portifólio](https://heyynat.github.io/) 💻
-<!-- - Atualmente estudando <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> -->
-
-- Atualmente aprendendo Ruby<img align="center" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+<li> <a target="_blank" href="https://heyynat.github.io/">Visite meu portifólio!</a> 💻</li>
+<li> Atualmente aprendendo Ruby OnRails <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" /> </li>
 
  <div style={{display: "flex"}}>
  <div>
