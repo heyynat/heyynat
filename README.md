@@ -11,8 +11,8 @@
  <div style={{display: "flex"}}>
  <div>
   <a href="https://github.com/heyynat">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heyynat&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyynat&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heyynat&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyynat&layout=compact&langs_count=7"/>
 </div>
 
 <div style={{display: "flex", justify-content: "space-around"}}><br>
