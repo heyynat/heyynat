@@ -54,7 +54,7 @@
   ![Ruby On Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000.svg?style=for-the-badge&logo=rubyonrails&logoColor=white)
   ![Node](https://img.shields.io/badge/Node-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![Nest](https://img.shields.io/badge/nest-%23C21325?style=for-the-badge&logo=nestjs&logoColor=white)
+  ![Nest](https://img.shields.io/badge/nest-000000?style=for-the-badge&logo=nestjs&logoColor=darkred)
 
   ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
   ![RSpec](https://img.shields.io/badge/RSpec-FF0000?style=for-the-badge&logo=rubygems&logoColor=white)
