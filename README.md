@@ -30,7 +30,6 @@
 
 ##
 
-<br>
 <h3> 🚀 &nbsp;Minhas habilidades </h3>
 
 <div>
