@@ -4,7 +4,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Sou apaixonada por programação e por marcas que entregam soluções inovadoras e ágeis gerando valor para negócios e transformações no mundo digital. Trabalho e acredito em projetos que possam gerar um impacto e simplificar a vida das pessoas.
+  Sou apaixonada por desenvolvimento web e por criar soluções inovadoras que agreguem valor aos negócios e impulsionem a transformação digital. Formada em Desenvolvimento Web Full Stack pela Trybe e atualmente cursando Sistemas de Informação na UFMT, busco sempre projetos que simplifiquem a vida das pessoas e gerem impacto positivo.
+
+  Com experiência abrangente em Front-End e Back-End, domino tecnologias como Ruby on Rails, JavaScript, AWS, React.js, Node.js, PostgreSQL e MySQL.
+
+  Atuei por 2 anos como desenvolvedora back-end em uma Fintech SaaS, onde trabalhei em demandas estratégicas que resultaram em impactos significativos para o negócio. Durante esse período, desenvolvi minhas habilidades com Ruby, Ruby on Rails, RSpec, PostgreSQL, AWS, Docker, Sidekiq, Rollbar, Jira, Git e GitHub.
+
+  Estou sempre em busca de desafios que me permitam crescer profissionalmente e contribuir para soluções que realmente façam a diferença.
+
+  Vamos transformar o digital juntos? 🚀
 </p>
 <br>
 <p align="left">
@@ -23,7 +31,7 @@
 ##
 
 <br>
-<h3> :rocket: &nbsp;Minhas habilidades </h3>
+<h3> 🚀 &nbsp;Minhas habilidades </h3>
 
 <div>
 
@@ -50,8 +58,7 @@
   ![Nest](https://img.shields.io/badge/nest-%23C21325?style=for-the-badge&logo=nestjs&logoColor=white)
 
   ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-  ![RSpec](https://img.shields.io/badge/-rspec-333333?style=for-the-badge&logo=rspec&logoColor=white)
-
+  ![RSpec](https://img.shields.io/badge/RSpec-FF0000?style=for-the-badge&logo=rubygems&logoColor=white)
 
   ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
   ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
