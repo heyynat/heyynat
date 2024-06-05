@@ -56,6 +56,7 @@
   ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
   ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
   ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+  ![pnpm](https://img.shields.io/badge/pnpm-%23323330.svg?style=for-the-badge&logo=pnpm&logoColor=%BBDEAD)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![RubyMine](https://img.shields.io/badge/RubyMine-%23CB3837.svg?style=for-the-badge&logo=rubymine&logoColor=white)
