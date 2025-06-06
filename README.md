@@ -1,18 +1,37 @@
 ### Heyy! Eu sou a Natali Lima✌️
-##
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Sou apaixonada por desenvolvimento web e por criar soluções inovadoras que agreguem valor aos negócios e impulsionem a transformação digital. Formada em Desenvolvimento Web Full Stack pela Trybe e atualmente cursando Sistemas de Informação na UFMT, busco sempre projetos que simplifiquem a vida das pessoas e gerem impacto positivo.
+Sou desenvolvedora back-end especializada em criar soluções web que geram valor real para negócios digitais. Tenho paixão por construir sistemas eficientes, escaláveis e bem estruturados.
 
-  Com experiência abrangente em Front-End e Back-End, domino tecnologias como Ruby on Rails, JavaScript, AWS, React.js, Node.js, PostgreSQL e MySQL.
+💻 Formada em Desenvolvimento Web Full Stack pela [Trybe](https://www.betrybe.com/) e atualmente cursando Sistemas de Informação na UFMT, atuo com foco em **Ruby on Rails**, **NestJS**, **TypeScript** e **PostgreSQL**, mas também possuo experiência com tecnologias como AWS, Docker, RabbitMQ, MongoDB e mais.
 
-  Atuei por 2 anos como desenvolvedora back-end em uma Fintech SaaS, onde trabalhei em demandas estratégicas que resultaram em impactos significativos para o negócio. Durante esse período, desenvolvi minhas habilidades com Ruby, Ruby on Rails, RSpec, PostgreSQL, AWS, Docker, Sidekiq, Rollbar, Jira, Git e GitHub.
+🎯 Já atuei em empresas do setor financeiro (Fintechs e SaaS), entregando soluções como:
+- Integrações com adquirentes e bancos
+- Criação e manutenção de APIs REST
+- Automação de processos
+- Otimizações de performance
+- Background jobs e mensageria
+- Refatoração de código legado
 
-  Estou sempre em busca de desafios que me permitam crescer profissionalmente e contribuir para soluções que realmente façam a diferença.
+---
 
-  Vamos transformar o digital juntos? 🚀
+## 🔧 Posso te ajudar com:
+- Desenvolvimento de APIs (Ruby on Rails / NestJS)
+- Integrações com sistemas de terceiros
+- Criação de back-ends completos para produtos digitais
+- Refatoração e automação de processos
+- Projetos pontuais ou suporte técnico contínuo
+
+---
+
+## 🤝 Vamos trabalhar juntos?
+
+Estou aberta a **freelas, colaborações com startups** e **projetos sob demanda**. Se busca alguém com responsabilidade, organização e foco em entregas reais, me chama!
+
+> Bora transformar ideias em soluções digitais de verdade? 🚀
+
 </p>
 <br>
 <p align="left">
