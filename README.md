@@ -14,9 +14,9 @@ Desenvolvimento e sustentação de APIs escaláveis, microsserviços e integraç
 
 Desenvolvedora Backend com forte atuação em ambientes de alta criticidade, com foco em **Ruby on Rails** e **Node.js (NestJS)**. Experiência em APIs REST escaláveis, microsserviços e integrações financeiras com bancos e adquirentes.
 
-Ao longo de mais de 3 anos em **Fintechs e plataformas SaaS**, atuei na construção de sistemas de pagamentos, recorrência e liquidação financeira — na **Grafeno (grupo Vórtx)** e na **Vindi/LWSA (via Impulso)**. Também tenho experiência em sustentação de plataformas em produção, chamados de engenharia e apoio técnico aos níveis **N1, N2 e N3**.
+Ao longo de mais de 4 anos em **Fintechs e plataformas SaaS**, atuei na construção de sistemas de pagamentos, recorrência e liquidação financeira — na **Grafeno (grupo Vórtx)** e na **Vindi/LWSA (via Impulso)**. Também tenho experiência em sustentação de plataformas em produção, chamados de engenharia e apoio técnico aos níveis **N1, N2 e N3**.
 
-Formação em Desenvolvimento Web Full Stack pela [Trybe](https://www.betrybe.com/) e graduação em **Sistemas de Informação** na UFMT (conclusão prevista: 2026).
+Formação em Desenvolvimento Web Full Stack pela [Trybe](https://www.betrybe.com/) e graduação em **Sistemas de Informação** na UFMT.
 
 ---
 
