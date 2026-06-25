@@ -30,16 +30,6 @@ Formação em Desenvolvimento Web Full Stack pela [Trybe](https://www.betrybe.co
 
 ---
 
-### Experiência recente
-
-| Período | Empresa | Foco |
-|---------|---------|------|
-| Nov 2024 — Out 2025 | Impulso / Vindi — LWSA | Gateway de pagamentos, Pix, cartões, boletos |
-| Jun — Nov 2024 | Desperta Energia | APIs NestJS, microsserviços |
-| Abr 2022 — Mar 2024 | Grafeno Digital (Vórtx) | APIs Rails, pagamentos e liquidação |
-
----
-
 ### Stack principal
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
